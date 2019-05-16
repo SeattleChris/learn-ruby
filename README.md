@@ -6,6 +6,7 @@
 ## Overview
 
 Ruby in 20 minutes from the docs website (listed as author for that file here).
+blog from Ruby on rails: https://guides.rubyonrails.org/v5.0/getting_started.html
 
 ## Architecture
 
